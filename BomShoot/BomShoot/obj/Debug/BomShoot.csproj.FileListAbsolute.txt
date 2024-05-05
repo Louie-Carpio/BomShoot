@@ -1,0 +1,11 @@
+C:\Users\louie\Desktop\BomShoot\BomShoot\bin\Debug\BomShoot.exe.config
+C:\Users\louie\Desktop\BomShoot\BomShoot\bin\Debug\BomShoot.exe
+C:\Users\louie\Desktop\BomShoot\BomShoot\bin\Debug\BomShoot.pdb
+C:\Users\louie\Desktop\BomShoot\BomShoot\obj\Debug\Interop.WMPLib.dll
+C:\Users\louie\Desktop\BomShoot\BomShoot\obj\Debug\BomShoot.csproj.ResolveComReference.cache
+C:\Users\louie\Desktop\BomShoot\BomShoot\obj\Debug\BomShoot.Form1.resources
+C:\Users\louie\Desktop\BomShoot\BomShoot\obj\Debug\BomShoot.Properties.Resources.resources
+C:\Users\louie\Desktop\BomShoot\BomShoot\obj\Debug\BomShoot.csproj.GenerateResource.cache
+C:\Users\louie\Desktop\BomShoot\BomShoot\obj\Debug\BomShoot.csproj.CoreCompileInputs.cache
+C:\Users\louie\Desktop\BomShoot\BomShoot\obj\Debug\BomShoot.exe
+C:\Users\louie\Desktop\BomShoot\BomShoot\obj\Debug\BomShoot.pdb
